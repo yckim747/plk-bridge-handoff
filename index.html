@@ -19,7 +19,9 @@ h1{font-size:28px;letter-spacing:-.02em;line-height:1.35}
 .lede{margin-top:12px;font-size:16px;color:var(--soft)}
 
 .warn{margin:26px 0;padding:20px 22px;border-radius:14px;background:#fff6f6;border:1px solid #f0c9c9}
-.warn b{display:block;font-size:16px;color:#a32020;margin-bottom:6px}
+/* 직계 b 만 제목이다 — 문단 안 강조까지 block 이 되면 '이동만' 이 줄바꿈된다 */
+.warn > b{display:block;font-size:16px;color:#a32020;margin-bottom:6px}
+.warn p b{color:#a32020}
 .warn p{font-size:14.5px;color:#7d3a3a}
 
 h2{font-size:18px;margin:34px 0 14px;letter-spacing:-.02em}

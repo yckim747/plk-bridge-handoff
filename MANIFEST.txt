@@ -14,7 +14,7 @@ da396ef9ba71     40587  img/brand-tourlinks.png
 e2fcc692c657     40022  img/klpga-championship.jpg
 9eb8814890b4     31984  img/klpga-player.jpg
 dc7a896cfa40     21012  img/plk-card.jpg
-919d8894ba17      6416  index.html
+95df005513bb      6552  index.html
 349e9fccdf8d     47066  lp-done.html
 5ec6446e4f2c     57244  lp-form.html
 1538a2e69f89    365410  lp.html
